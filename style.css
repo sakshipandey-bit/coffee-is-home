@@ -96,7 +96,7 @@ body {
     display: flex;
     align-items: center;
 
-    background-image: url("assets/backgrounds/coffee-home-bg.jpg");
+    background-image: url("coffee-home-bg.jpg");
     background-size: cover;
     background-position: center;
 }
